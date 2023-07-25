@@ -2,7 +2,6 @@
 
 - Rails
 - Vue
-- Flutter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cisolarix)](https://github.com/anuraghazra/github-readme-stats)
 
