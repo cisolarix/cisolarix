@@ -1,4 +1,4 @@
-# The man behind [BunApps](https://bunapps.com){:target="_blank"}
+# The man behind <a href="https://bunapps.com" target="_blank" rel="nofollow">BunApps</a>
 
 ## I'm currently working on
 - [onlinerecorderapp.com](https://onlinerecorderapp.com){:target="_blank"}
